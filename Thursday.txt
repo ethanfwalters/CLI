@@ -1,11 +1,8 @@
 today is thursday.
-<<<<<<< HEAD
 
 this is the second line.
 
 this only has to do with vacation
 
 forth line
-=======
 second line.
->>>>>>> bd2c23add6643b3b86fb6fb08f3264ca579a1013
